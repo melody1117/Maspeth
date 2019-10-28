@@ -22,4 +22,4 @@ Race
 * 0.2% Other
 
 ## Proposed CitiBike Stations
-<script src="https://gist.github.com/melody1117/c6eeebe398fb6d85b1d493801255e88e.js"></script>
+<script src="https://embed.github.com/view/geojson/melody1117/csci127R/master/map.topojson"></script>
