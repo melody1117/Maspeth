@@ -21,3 +21,7 @@ Race
 * 1.3% Mixed-race
 * 0.2% Other
 
+## Proposed CitiBike Stations
+<script src="https://embed.github.com/view/geojson/melody1117/csci127R/master/Maspeth.geojson"></script>
+<script src="https://embed.github.com/view/geojson/https://github.com/melody1117/csci127R/blob/master/Maspeth.geojson"></script>
+
