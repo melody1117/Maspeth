@@ -24,4 +24,5 @@ Race
 ## Proposed CitiBike Stations
 https://github.com/melody1117/csci127R/blob/master/Maspeth.geojson
 
+![image](https://user-images.githubusercontent.com/56621097/67713696-b0ec4780-f99c-11e9-87bb-118657e83c4a.png)
 
