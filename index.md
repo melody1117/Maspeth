@@ -23,5 +23,4 @@ Race
 
 ## Proposed CitiBike Stations
 
-<script src="https://embed.github.com/view/geojson/melody1117/csci127R/blob/master/MaspethGeojson.geojson"></script>
-
+<script src="https://embed.github.com/view/geojson/melody1117/csci127R/blob/master/MaspethGeojson.json"></script>
