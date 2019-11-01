@@ -22,4 +22,4 @@ Race
 * 0.2% Other
 
 ## Proposed CitiBike Stations
-<script src="https://embed.github.com/view/geojson/melody1117/Maspeth/blob/master/MaspethGeojson.geojson" ></script>
+<script src="https://embed.github.com/view/geojson/melody1117/Maspeth/master/MaspethGeojson.geojson" ></script>
