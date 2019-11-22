@@ -1,6 +1,8 @@
 # Welcome to the Maspeth Page
 
 ## Demographics of Maspeth
+![maspeth](https://user-images.githubusercontent.com/56621097/69440016-06a2de00-0d16-11ea-9655-1c48d79a9cea.png)
+
 Total population: 54,905
 
 Number of households: 19,306
